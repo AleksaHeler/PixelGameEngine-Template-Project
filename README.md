@@ -3,6 +3,8 @@
 
 This is my template for One Lone Coder's [Pixel Game Engine](https://github.com/OneLoneCoder/olcPixelGameEngine). It's a nice platform for creating interactive games or applications in C++.
 
+It's a basic project structure, using CMake to generate Makefile which is then used by make to build the executable.
+
 ## Installation
 
 ### Compiler
