@@ -1,6 +1,8 @@
 
 # How to set everything up
 
+This is my template for One Lone Coder's [Pixel Game Engine](https://github.com/OneLoneCoder/olcPixelGameEngine). It's a nice platform for creating interactive games or applications in C++.
+
 ## Installation
 
 ### Compiler
